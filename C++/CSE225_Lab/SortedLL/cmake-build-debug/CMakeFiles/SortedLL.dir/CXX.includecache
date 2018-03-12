@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ProgrammingFiles/C++/CSE225_Lab/SortedLL/SortedType.cpp
+SortedType.h
+D:/ProgrammingFiles/C++/CSE225_Lab/SortedLL/SortedType.h
+iostream
+-
+
+D:/ProgrammingFiles/C++/CSE225_Lab/SortedLL/SortedType.h
+
+D:/ProgrammingFiles/C++/CSE225_Lab/SortedLL/main.cpp
+bits/stdc++.h
+-
+SortedType.cpp
+D:/ProgrammingFiles/C++/CSE225_Lab/SortedLL/SortedType.cpp
+

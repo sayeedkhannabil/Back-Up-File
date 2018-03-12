@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="problemSolve" targetName="problemSolve" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd9c6a1a-a384-43c1-8602-885bfcad3a33" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../UVA/3n+1.cpp" afterPath="$PROJECT_DIR$/../UVA/3n+1.cpp" />
+      <change beforePath="$PROJECT_DIR$/../UVA/3n+1.exe" afterPath="$PROJECT_DIR$/../UVA/3n+1.exe" />
+      <change beforePath="$PROJECT_DIR$/../UVA/3n+1.o" afterPath="$PROJECT_DIR$/../UVA/3n+1.o" />
+      <change beforePath="$PROJECT_DIR$/../welcome.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../welcome.exe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../welcome.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../C/Test/Test.c" afterPath="$PROJECT_DIR$/../../C/Test/Test.c" />
+      <change beforePath="$PROJECT_DIR$/../../C/Test/Test.exe" afterPath="$PROJECT_DIR$/../../C/Test/Test.exe" />
+      <change beforePath="$PROJECT_DIR$/../../C/Test/Test.o" afterPath="$PROJECT_DIR$/../../C/Test/Test.o" />
+      <change beforePath="$PROJECT_DIR$/../../HTML5/firstHeading.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Cse-215(LifeOfAnt)" afterPath="$PROJECT_DIR$/../../Java/Cse-215(LifeOfAnt)" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.log" afterPath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.log" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.core.resources/.projects/FlappyBird-JavaFx-master/.location" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.core.resources/.projects/FlappyBird-JavaFx-master/.markers" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.core.resources/.projects/FlappyBird-JavaFx-master/org.eclipse.jdt.core/state.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.core.resources/.projects/src/.indexes/properties.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.core.resources/.projects/src/.location" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.core.resources/.projects/src/org.eclipse.egit.core/GitProjectData.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.core.resources/.projects/src/org.eclipse.jdt.core/state.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterPath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.core.resources/.root/14.tree" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterPath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" afterPath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterPath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterPath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterPath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" afterPath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterPath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" afterPath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.jdt.core/1067094681.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.jdt.core/128316096.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.jdt.core/3384513373.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.jdt.core/3808952482.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterPath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterPath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterPath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterPath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterPath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterPath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterPath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterPath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterPath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterPath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.recommenders.news.impl/downloads/http%3A%2F%2Fwww.eclipse.org%2Fhome%2Feclipsenews.rss" afterPath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.recommenders.news.impl/downloads/http%3A%2F%2Fwww.eclipse.org%2Fhome%2Feclipsenews.rss" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterPath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterPath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" />
+      <change beforePath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/version.ini" afterPath="$PROJECT_DIR$/../../Java/EclipseProject/.metadata/version.ini" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Project/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../Java/Project/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../../Python/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../Python/.idea/workspace.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="width" value="1368" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.problemSolve">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+    </configuration>
+    <configuration name="problemSolve" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problemSolve" TARGET_NAME="problemSolve" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="problemSolve" RUN_TARGET_NAME="problemSolve">
+      <envs />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.problemSolve" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd9c6a1a-a384-43c1-8602-885bfcad3a33" name="Default" comment="" />
+      <created>1520837771506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520837771506</updated>
+      <workItem from="1520837774673" duration="67000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="67000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-16" y="-16" width="3872" height="2092" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

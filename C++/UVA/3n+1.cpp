@@ -1,36 +1,44 @@
-#include<iostream>
-#include <stdio.h>
-
+#include <cstdio>
+#include <cmath>
+#include <algorithm>
+#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
+typedef long long int ll;
 
 int main()
 {
-	int input1, input2;
+	ll inp1;
+	ll inp2;
 
-	while(scanf("%d %d", &input1, &input2)){
+	while(cin>>inp1>>inp2){
+        ll new_inp1 = inp1;
+        ll new_inp2 = inp2;
+		if(inp1>inp2)
+			swap(inp1, inp2);
+
 		int countmain = 0;
 
-		for(int i = input1; i<=input2; i++){
-			int count = 0;
+		for(int i = inp1; i<=inp2; i++){
+			int count = 1;
 			int n = i;
-
 			while(n!=1){
-				if(n%2==0){
-					n= n/2;
-					count++;
-				}
-
-				if(n%2!=0){
+				if(n%2 == 1){
 					n = 3*n + 1;
-					count++;
 				}
+				else
+					n = n/2;
+
+				count++;
 			}
-			if(count>countmain)
+
+			if(count>countmain){
 				countmain = count;
 			}
-
-			printf("%d %d %d\n", input1, input2, countmain);
 		}
+
+		cout<<new_inp1<<" "<<new_inp2<<" "<<countmain<<"\n";
+	}
 
 	return 0;
 }

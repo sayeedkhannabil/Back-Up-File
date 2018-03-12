@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1517799420 source:d:\programmingfiles\c++\cse225_lab\cse225_lab\src\dyanamicarray.cpp
+	"DyanamicArray.h"
+
+1517799419 d:\programmingfiles\c++\cse225_lab\cse225_lab\include\dyanamicarray.h
+
+1517800605 source:d:\programmingfiles\c++\cse225_lab\cse225_lab\src\dynamicarray.cpp
+	"DynamicArray.h"
+
+1517800604 d:\programmingfiles\c++\cse225_lab\cse225_lab\include\dynamicarray.h
+
+1517801098 source:d:\programmingfiles\c++\cse225_lab\cse225_lab\main.cpp
+	<bits/stdc++.h>
+	<DynamicArray.h>
+
